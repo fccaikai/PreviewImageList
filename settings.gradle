@@ -1,0 +1,3 @@
+rootProject.name='PreviewImageList'
+include ':app'
+include ':previewimage'
